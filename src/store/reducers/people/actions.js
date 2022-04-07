@@ -1,0 +1,4 @@
+export const LOAD_PEOPLE = "LOAD_PEOPlE";
+export const LOAD_PEOPLE_SUCCESS = "LOAD_PEOPlE_SUCCESS";
+export const LOAD_PEOPLE_FAILURE = "LOAD_PEOPlE_FAILURE";
+
